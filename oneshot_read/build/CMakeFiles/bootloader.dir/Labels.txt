@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/repository/esp32ADC/oneshot_read/build/CMakeFiles/bootloader
+C:/repository/esp32ADC/oneshot_read/build/CMakeFiles/bootloader.rule
+C:/repository/esp32ADC/oneshot_read/build/CMakeFiles/bootloader-complete.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/repository/esp32ADC/oneshot_read/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
